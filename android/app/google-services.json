@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1069463885544",
+    "project_id": "taibahu-app",
+    "storage_bucket": "taibahu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069463885544:android:c34d9c18f25cc2a09c5b5d",
+        "android_client_info": {
+          "package_name": "com.example.taibahu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069463885544-pjcgku45rqkk9709g8vmvkss8809andp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taibahu_app",
+            "certificate_hash": "fb856997d4aecc7d76acea844edb87ce4eaf36a9"
+          }
+        },
+        {
+          "client_id": "1069463885544-71bejj3jgqovv19euf8kvame93q48t1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3ztDVQKOnFrZQkA7hKiwSX8st4vrZ3sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069463885544-71bejj3jgqovv19euf8kvame93q48t1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
